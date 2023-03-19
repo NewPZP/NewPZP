@@ -1,6 +1,10 @@
 ### Hi there 👋
+[![pan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
+
+[![pan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NewPZP/NewPZP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
