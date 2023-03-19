@@ -1,4 +1,12 @@
-### Hi there 👋
+### 技术栈
+#### 语言
+
+#### 工具
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+
+
+### 哈哈，同志尚须努力 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
 
