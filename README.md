@@ -3,7 +3,7 @@
 
 #### 工具
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-TypeScirpt?style=flat&logo=typescript&logoColor=white">
+<img src="http://img.shields.io/badge/-TypeScirpt-007ACC?style=flat&logo=typescript&logoColor=white">
 
 
 ### 哈哈，同志尚须努力 👋
