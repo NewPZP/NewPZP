@@ -17,7 +17,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ### 测试工具
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Apache Jmeter](https://img.shields.io/badge/-Apache Jmeter-D22128?style=flat-square&logo=Apache&nbspJmeter&logoColor=white)
+![Apache Jmeter](https://img.shields.io/badge/-Apache_Jmeter-D22128?style=flat-square&logo=Apache&nbspJmeter&logoColor=white)
 ![Junit5](https://img.shields.io/badge/-Junit5-25A162?style=flat-square&logo=Junit5&logoColor=white)
 ### 系统
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
