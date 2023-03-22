@@ -1,9 +1,13 @@
 ### 技术栈
-#### 语言
+#### 语言框架
+<img src="http://img.shields.io/badge/-TypeScirpt-007ACC?style=flat&logo=typescript&logoColor=white">
+<img src="http://img.shields.io/badge/-GoLand-007ACC?style=flat&logo=GoLand&logoColor=white">
+<img src="http://img.shields.io/badge/-Python-007ACC?style=flat&logo=Python&logoColor=white">
+<img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="http://img.shields.io/badge/-Spring-boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 
 #### 工具
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-TypeScirpt-007ACC?style=flat&logo=typescript&logoColor=white">
 
 
 ### 哈哈，同志尚须努力 👋
