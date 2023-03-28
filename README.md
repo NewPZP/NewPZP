@@ -1,5 +1,14 @@
-### 技术栈
-#### 语言框架
+
+## 2023专注于
+- 构建社交名片
+  - github
+  - 知乎等知识分享网站
+- 尝试方向
+  - 前端 游戏 知识学习结合
+- 分布式，数据库，java ，算法等核心，难点知识终结
+
+## 技术栈
+### 语言框架
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&nbspBoot&logoColor=white)
@@ -24,7 +33,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-#### 工具
+### 工具
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 ![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -34,7 +43,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
 
-### 哈哈，同志尚须努力 👋
+## 哈哈，同志尚须努力 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
 
