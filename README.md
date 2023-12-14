@@ -43,7 +43,7 @@
 
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,7 +114,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2023 18:38:48 UTC
+ Last Updated on 14/12/2023 18:40:02 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
