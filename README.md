@@ -107,10 +107,7 @@ Shell                    1 repo              ███████████�
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
-
-[![pan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewPZP)](https://github.com/anuraghazra/github-readme-stats)
+[![Pan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NewPZP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NewPZP/NewPZP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
