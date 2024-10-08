@@ -40,8 +40,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 148 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -75,18 +73,13 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 17 mins       ██████████████████████░░░   87.91 % 
-JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       ██████████████████████░░░   88.56 % 
-Mac                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +97,7 @@ Shell                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 18:44:32 UTC
+ Last Updated on 08/10/2024 18:43:37 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
