@@ -32,13 +32,15 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C235%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C239%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,16 +75,17 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   43 mins             █████████████████░░░░░░░░   67.31 % 
-Other                    18 mins             ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-INI                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   5 hrs 6 mins        ███████████████████████░░   93.54 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +103,7 @@ Shell                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 18:44:57 UTC
+ Last Updated on 07/02/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
