@@ -32,13 +32,15 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C267%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +75,17 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 hrs 27 mins      ████████████████████████░   97.73 % 
-YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-INI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   26 hrs 34 mins      ████████████████████████░   97.69 % 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+INI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  27 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +103,7 @@ Shell                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:45:28 UTC
+ Last Updated on 14/02/2025 18:44:31 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
