@@ -32,13 +32,15 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C291%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C296%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +75,18 @@ Sunday                   47 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 21 mins      █████████████████████████   98.82 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   27 hrs 4 mins       █████████████████████████   98.89 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 56 mins      █████████████████████████   98.38 % 
+Mac                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +103,7 @@ Shell                    1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:42:05 UTC
+ Last Updated on 23/02/2025 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
