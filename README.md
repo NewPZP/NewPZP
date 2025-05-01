@@ -32,13 +32,15 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C525%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C530%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,17 +75,17 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   34 hrs 47 mins      ███████████████████████░░   92.94 % 
-YAML                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Python                   34 hrs 41 mins      ███████████████████████░░   92.62 % 
+YAML                     2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  37 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  37 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +103,7 @@ Shell                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 18:48:57 UTC
+ Last Updated on 01/05/2025 18:49:13 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
