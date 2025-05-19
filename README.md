@@ -40,6 +40,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -101,7 +103,7 @@ Shell                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 18:46:46 UTC
+ Last Updated on 19/05/2025 18:50:31 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
