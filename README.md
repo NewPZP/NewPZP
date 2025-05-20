@@ -32,15 +32,13 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C579%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,17 +73,17 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 35 mins      █████████████████░░░░░░░░   67.34 % 
-HTML                     4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python                   16 hrs 38 mins      ██████████████████░░░░░░░   72.51 % 
+HTML                     3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+TOML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  22 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +101,7 @@ Shell                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 18:50:31 UTC
+ Last Updated on 20/05/2025 18:51:11 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
