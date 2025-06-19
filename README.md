@@ -73,17 +73,13 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ██████████████████████░░░   87.07 % 
-TOML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +97,7 @@ Shell                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 18:51:46 UTC
+ Last Updated on 19/06/2025 18:50:05 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
