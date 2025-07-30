@@ -32,7 +32,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,52 +40,14 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 11 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                193 commits         ██████████████████░░░░░░░   72.28 % 
-🌆 Daytime                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-🌃 Evening                61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Wednesday                58 commits          █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Thursday                 34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Sunday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   28 hrs 43 mins      ████████████████████████░   94.99 % 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-HTML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Docker                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-🔥 Editors: 
-VS Code                  30 hrs 14 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  30 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -101,7 +63,7 @@ Shell                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2025 18:57:42 UTC
+ Last Updated on 30/07/2025 18:56:26 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
