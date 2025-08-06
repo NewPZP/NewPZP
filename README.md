@@ -1,7 +1,7 @@
 
-## 2023 专注
-- 雅思 7.0 以上
-- 开发一个应用，拿到软著
+## 2025-26 专注
+- 雅思 7.0 
+- 远程工作
 
 ## 技术栈
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
