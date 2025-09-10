@@ -32,13 +32,15 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C896%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,18 +75,18 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 56 mins      ██████████████████░░░░░░░   73.15 % 
-Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Python                   13 hrs 3 mins       ████████████████░░░░░░░░░   65.98 % 
+Markdown                 3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 37 mins      ███████████████████████░░   91.12 % 
-Mac                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Windows                  17 hrs 32 mins      ██████████████████████░░░   88.62 % 
+Mac                      2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -104,7 +106,7 @@ Shell                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 18:45:38 UTC
+ Last Updated on 10/09/2025 18:48:06 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
