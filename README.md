@@ -32,13 +32,15 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,18 +75,18 @@ Sunday                   47 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 18 mins      ███████████████████░░░░░░   74.55 % 
-Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   18 hrs 59 mins      ██████████████████████░░░   89.99 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 29 mins      ████████████████████████░   96.88 % 
-Mac                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Windows                  20 hrs 55 mins      █████████████████████████   99.17 % 
+Mac                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +104,7 @@ Shell                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 18:48:12 UTC
+ Last Updated on 18/09/2025 18:49:13 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
