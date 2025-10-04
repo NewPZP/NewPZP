@@ -32,6 +32,8 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C937%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -60,7 +62,7 @@ Shell                    1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:47:18 UTC
+ Last Updated on 04/10/2025 18:44:06 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
