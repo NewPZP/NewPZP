@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C937%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,7 +98,7 @@ Shell                    1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 18:49:08 UTC
+ Last Updated on 10/10/2025 18:48:14 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
