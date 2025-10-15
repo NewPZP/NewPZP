@@ -32,8 +32,6 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C937%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -48,42 +46,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                184 commits         █████████████████░░░░░░░░   68.66 % 
-🌆 Daytime                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-🌃 Evening                61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Wednesday                59 commits          ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Sunday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Shell** 
 
 ```text
@@ -98,7 +60,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 18:48:54 UTC
+ Last Updated on 15/10/2025 18:49:38 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
