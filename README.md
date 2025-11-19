@@ -32,7 +32,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -75,14 +75,14 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   98.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python                   3 mins              ████████████████████████░   96.24 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -99,7 +99,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2025 18:52:54 UTC
+ Last Updated on 19/11/2025 18:49:36 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
