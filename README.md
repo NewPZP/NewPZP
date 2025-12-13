@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,14 +75,14 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 mins             ████████████████████░░░░░   79.09 % 
-YAML                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Python                   12 mins             ████████████████████████░   97.64 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -99,7 +99,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 18:54:08 UTC
+ Last Updated on 13/12/2025 18:48:38 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
