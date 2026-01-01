@@ -40,7 +40,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,8 +75,8 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     14 mins             ██████████████░░░░░░░░░░░   56.49 % 
-Python                   11 mins             ███████████░░░░░░░░░░░░░░   43.51 % 
+YAML                     14 mins             ██████████████░░░░░░░░░░░   56.30 % 
+Python                   11 mins             ███████████░░░░░░░░░░░░░░   43.70 % 
 
 🔥 Editors: 
 VS Code                  25 mins             █████████████████████████   100.00 % 
@@ -99,7 +99,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:52:39 UTC
+ Last Updated on 01/01/2026 18:53:07 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
