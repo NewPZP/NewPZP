@@ -32,7 +32,9 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ## code time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C966%20hrs%2022%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,6 +48,42 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                184 commits         █████████████████░░░░░░░░   68.15 % 
+🌆 Daytime                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+🌃 Evening                61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Wednesday                59 commits          █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -60,7 +98,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/NewPZP/NewPZP/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:51:35 UTC
+ Last Updated on 04/01/2026 18:51:21 UTC
 <!--END_SECTION:waka-->
 
 ## 哈哈，同志尚须努力 👋
